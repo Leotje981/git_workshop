@@ -17,3 +17,4 @@ git push # pushes your branch to github online.
 Now make a pull request to merge your changes into the master branch.
 
 For explanations view the [git workflow](docs/git_workflow.md) documentation
+"Leo was here..."
